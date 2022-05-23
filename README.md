@@ -3,4 +3,4 @@
 
 ## News
 - 2022/05/23
-    - [ランダム戦記 ○○スピナー～MARU MARU THE SUPINA REMOTE WORK EDITION～ v1.0.0](https://github.com/Hikeshi/GGGameJamOfficial/releases/edit/MaruMaruSpiner-v1.0.0) をリリースしました！
+    - [ランダム戦記 ○○スピナー～MARU MARU THE SUPINA REMOTE WORK EDITION～ v1.0.0](https://github.com/Hikeshi/GGGameJamOfficial/releases/tag/MaruMaruSpiner-v1.0.0) をリリースしました！
